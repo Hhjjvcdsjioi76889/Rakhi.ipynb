@@ -59,4 +59,4 @@ It applies data preprocessing, handles class imbalance, and evaluates multiple M
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/HHjjvcdsjioi76889/Rakhi.ipynb.git
